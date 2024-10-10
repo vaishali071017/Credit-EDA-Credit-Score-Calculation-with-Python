@@ -1,6 +1,6 @@
 # Credit-EDA-Credit-Score-Calculation-with-Python
 
-![image](https://github.com/user-attachments/assets/1c073ff0-c454-41e9-a2ec-fb62293aa134)
+![image](https://github.com/user-attachments/assets/4f2ad577-63d0-4262-9b69-d08a0325084e)
 
 **Problem statement:**
 
