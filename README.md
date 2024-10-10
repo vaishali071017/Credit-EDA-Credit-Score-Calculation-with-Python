@@ -66,3 +66,57 @@ Amount_invested_monthly	 Represents the monthly amount invested by the customer 
 Payment_Behaviour	 Represents the payment behavior of the customer (in USD)
 
 Monthly_Balance	 Represents the monthly balance amount of the customer (in USD)
+
+**💡 Insights & Recommendations**
+
+**Insights**
+
+•	Age Distribution: Most customers fall within the middle age range (between 30 and 50 years). There are fewer customers in the younger and older age groups.
+
+•	Annual Income Distribution: The majority of customers have annual incomes between 25000 and 75000. Fewer customers fall into higher income brackets.
+
+•	Occupation Diversity: Customers come from various professions, including writers, programmers, executives, doctors, lawyers, teachers, and more. This diversity suggests a broad occupational background among the customer base.
+
+•	Credit Mix: The credit mix is categorized into ‘Bad,’ ‘Standard,’ and ‘Good.’ The ‘Standard’ category has the highest count, indicating a balanced mix of credit profiles.
+
+•	distribution of customers by credit score:
+
+•	Good (670-740): Largest group, 44.2%.
+
+•	Fair (580-670): Second largest, 25.0%.
+
+•	Very Good (740-800): 17.9%.
+
+•	Poor (<580): 11.2%.
+
+•	Exceptional (>=800): Smallest group, 1.7%.
+
+•	Most customers have "Good" scores, while a significant portion falls into "Fair" or "Poor," indicating potential risk.
+Positive Relationships:
+
+•	Age: Older individuals tend to have higher credit scores.
+
+•	Credit History Age: Longer credit history is associated with higher credit scores.
+Negative Relationships:
+
+•	Num Bank Accounts: Having more bank accounts is associated with lower credit scores.
+
+•	Delay_from_due_date: Longer delays from due dates lead to lower credit scores.
+
+•	Num_of_Delayed_Payment: More delayed payments are linked to lower credit scores.
+
+•	Outstanding_Debt: Higher outstanding debt correlates with lower credit scores.
+
+•	Num_Credit_Inquiries: More credit inquiries result in lower credit scores.
+
+•	Num_of_Loan: Having more loans is associated with lower credit scores.
+
+•	Neutral Relationship: Credit_Utilization_Ratio: No statistically significant relationship with credit scores.
+
+Credit Mix: Having a mix of credit (loans and credit cards) can be beneficial, but too many can negatively impact scores. Frequent credit inquiries suggest credit-seeking behavior, potentially lowering scores.
+
+Payment Behavior: Consistent on-time payments are crucial for good credit scores. Late payments and high outstanding debt significantly harm credit scores.
+
+**Recommendations**
+
+Maintain a healthy mix of credit, avoiding excessive accounts. Prioritize timely payments and minimize outstanding debt. Limit credit inquiries to essential needs.
